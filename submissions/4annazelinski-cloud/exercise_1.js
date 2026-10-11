@@ -20,3 +20,4 @@ const isOdd = n => n % 2 !== 0;
 
 console.log(isOdd(7));
 console.log(isOdd(10));
+
